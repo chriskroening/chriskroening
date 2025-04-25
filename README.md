@@ -1,7 +1,7 @@
 # Willkommen auf meinem GitHub-Profil 👋
 
 ## Über mich
-🎓 Ich arbeite derzeit an meiner Masterarbeit im Bereich **Statistische Modelle mit gruppenwertige Strukturen**.
+🎓 Ich arbeite derzeit an meiner Masterarbeit im Bereich **Statistische Modelle mit gruppenwertigen Strukturen**.
 
 ## Forschungsschwerpunkte
 - 📊 Statistische Analysen mit gruppentheoretischen Ansätzen
